@@ -29,4 +29,3 @@ def OR(x1,x2):
     return 0
   elif tmp > 0:
     return 1
-
